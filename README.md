@@ -12,7 +12,7 @@ O Fofurometro é uma calculadora simples de regra de três, projetada com um des
 ## Como Usar
 1. Insira os valores **A**, **B** e **C** nos campos apropriados.
 2. Clique no botão "Calcular".
-3. O valor correspondente de **D** será calculado e exibido automaticamente.
+3. O valor que corresponde **X** será calculado e exibido automaticamente.
 
 
 ## Funcionalidades
